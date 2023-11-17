@@ -31,7 +31,7 @@ locals {
 }
 
 module "integration" {
-  source     = "puzl-cloud/gitlabaccesstoken/puzl"
+  source     = "puzl-cloud/gitlabpipelinesintegration/puzl"
   
   name       = local.integration_name
   namespace  = local.integration_namespace
