@@ -2,9 +2,9 @@
 
 ## Overview
 
-This Terraform module is designed to create a Kubernetes Secret object with a GitLab access token within [Cloud Pipelines Service](https://gitlab-pipelines.puzl.cloud) by Puzl. 
+This Terraform module is designed to create a Kubernetes Secret object with a GitLab access token within [Cloud Pipelines Service](https://puzl.cloud/products/ci-runners-for-gitlab) by Puzl. 
 
-The detailed description of the fields used in this module can be found in the related [GitLab access token documentation](https://gitlab-pipelines.puzl.cloud/docs/api/native-kubernetes-resources/secret/#gitlab-access-tokens).
+The detailed description of the fields used in this module can be found in the related [GitLab access token documentation](https://docs.puzl.cloud/api/ci-runners-for-gitlab/native-kubernetes-resources/secret#gitlab-access-tokens).
 
 ## Features
 
